@@ -1,2 +1,12 @@
 site_name: Dynamic Ontology
 site_url: https://greg-alvord-home.github.io/dynamicontology-site/
+nav:
+  - Home: index.md
+  - MISMO:
+      - Overview: mismo/overview.md
+  - OWB:
+      - Overview: owb/overview.md
+      - Demos: owb/demos.md
+      - Architecture: owb/architecture.md
+  - Philosophy:
+      - Teaching Meaning: philosophy/teaching-meaning.md
